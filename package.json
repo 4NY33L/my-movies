@@ -1,0 +1,19 @@
+{
+  "name": "my-movies",
+  "version": "1.0.0",
+  "description": "Sitio web de películas que implementa los conocimientos aprendidos en el curso práctico de consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4NY33L/my-movies.git"
+  },
+  "author": "Angel Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4NY33L/my-movies/issues"
+  },
+  "homepage": "https://github.com/4NY33L/my-movies#readme"
+}
